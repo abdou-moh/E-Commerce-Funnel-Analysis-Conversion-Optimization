@@ -31,7 +31,7 @@ The project uses a Direct-to-Consumer E-Commerce Funnel dataset containing:
 - 17 attributes
 - Customer/session information, Acquisition channel, Campaign type, Device type, User type, Region, Funnel stage indicators, Order value, and Revenue.
 
-**[Link to Dataset]** *(استبدل هذا النص برابط الداتا الحقيقي)*
+**[Link to Dataset](https://www.kaggle.com/datasets/yashch05/direct-to-consumer-e-commerce-funnel-dataset)** 
 
 ### Funnel Stages
 
@@ -148,7 +148,7 @@ SQL Server was used to transform the raw dataset into reusable analytical views 
 ## 📈 Power BI Dashboard
 The final Power BI dashboard transforms the analytical results into an interactive decision-support interface allowing users to move from high-level business KPIs to detailed funnel and segment analysis.
 
-![Power BI Dashboard Screenshot] *(استبدل هذا النص برابط أو مسار صورة الداشبورد)*
+![Dashboard](images/powerbi_dashboard.png)
 
 ---
 
@@ -185,4 +185,4 @@ This project demonstrates an end-to-end analytics workflow:
 **Abdalrahman Mohamed Mahmoud**
 Data Analyst | Python | SQL | Power BI
 
-🔗 [LinkedIn](رابط_حسابك_هنا) | 🔗 [GitHub](رابط_حسابك_هنا)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-osman/) | 🔗 [GitHub](https://github.com/abdou-moh)
